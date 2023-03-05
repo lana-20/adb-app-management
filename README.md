@@ -1,6 +1,6 @@
 # ADB App Management
 
-Sample test flow:
+A standard test flow using <code>adb</code> commands:
 
 
 - [ ] Start an emulator from command line (if you have a physical device, ​in addition, connect your phone/tablet with USB); hint: once it is started, open a new terminal or command prompt window to proceed
